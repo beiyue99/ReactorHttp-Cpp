@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\dispatcher",
+    "\\include",
+    "\\network",
+    "\\threadpool"
+  ],
+  "SelectedNode": "\\dispatcher\\EventLoop.cpp",
+  "PreviewInSolutionExplorer": false
+}
